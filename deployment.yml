@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: city-demo-app
-          image: sunitabachhav2007/city-demo-app:latest
+          image: shriniwas/city-demo-app:latest
           ports:
             - containerPort: 80
           env:
